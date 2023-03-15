@@ -8,7 +8,7 @@ function soma() {
 console.log(soma())
 
 num1 = 6
-// num2 = 9
+ num2 = 9
 
 console.log(soma())
 
